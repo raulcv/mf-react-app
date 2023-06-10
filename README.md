@@ -2,8 +2,8 @@
 
 This APP is a example to add and delete items in shopping cart
 
-* SignIn Costumer
-* Add Items to Cart
+* SignIn costumer
+* Add Items to cart
 * Delete items from cart
 
 ### Download this project in your local machine
